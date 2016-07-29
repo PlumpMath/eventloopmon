@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/elfido/eventloopmon/issues"
   },
-  "homepage": "https://github.com/elfido/eventloopmon"
+  "homepage": "https://github.com/elfido/eventloopmon",
+  "devDependencies": {
+    "grunt-bump": "~0.8.0",
+    "grunt-contrib-jshint": "~1.0.0",
+    "mocha": "~2.5.3",
+    "grunt-mocha-test": "~0.12.7",
+    "grunt": "~1.0.1",
+    "chai": "~3.5.0"
+  }
 }
