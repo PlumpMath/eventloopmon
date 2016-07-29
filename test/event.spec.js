@@ -3,7 +3,7 @@ var assert = require("chai").assert,
   monitor = require("..");
 
 function fib(x){
-  if (x==1){
+  if (x===1){
     return x;
   } else{
     return x * fib(x-1);
